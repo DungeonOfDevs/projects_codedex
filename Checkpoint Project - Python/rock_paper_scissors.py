@@ -1,3 +1,5 @@
+# Secund Version after the whole Python Course
+
 import random
 
 print('''
