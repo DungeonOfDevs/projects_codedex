@@ -13,7 +13,7 @@ symbols = {1: "✊", 2: "✋", 3: "✌️", 4: "🦎", 5: "🖖"}
 print("1) ✊\n2) ✋\n3) ✌️\n4) 🦎\n5) 🖖")
 
 try:
-    player = int(input("Pick a number (1-5): "))
+    player = int(input("Pick a number: "))
     if player not in symbols:
         print("Sheldon is not happy that you are trying to break the rules!")
         exit()
